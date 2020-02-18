@@ -1,0 +1,799 @@
+*{
+box-sizing:border-box;
+margin: 0px;
+
+}
+header{
+  width: 100%;
+  height: 50px;
+  background-color: ;
+}
+.burger{
+  display: none;
+}
+button{
+  background-color: black
+}
+span{
+  color: white;
+}
+.emailbar{
+  width: 40%;
+}
+.shadowlady{
+  width: 40%;
+  height: 350px;
+
+}
+.box1{
+  float: left;
+  width: 60%;
+  height: 350px;
+  text-align: center;
+  background-color: #F5F5F5;
+}
+.box3{
+  width: 50%;
+  height: 80px;
+  text-align: center;
+  float: left;
+}
+.box4{
+  width: 50%;
+  height: 80px;
+  float: left;
+}
+.box5{
+  width: 100%;
+  height: 80px;
+  text-align: center;
+}
+.box6{
+  float: left;
+  width: 60%;
+  height:550px;
+  background-color: #F5F5F5;
+  margin-top: 9%;
+}
+.box7{
+  float: left;
+  width: 40%;
+  height:275px;
+  background-color: #F5F5F5;
+  margin-top: 9%;
+}
+.box8{
+  float: left;
+  width: 40%;
+  height:275px;
+  background-color: #F5F5F5;
+  margin-top: 0%;
+}
+.box9{
+  width: 100%;
+  height: 50px;
+  clear: both;
+}
+.box10{
+  width: 100%;
+  height: 500px;
+  background-color: ;
+}
+.boxbox{
+  width: 100%;
+  height: 225px;
+}
+.box12{
+  width: 50%;
+  height: ;
+  background-color:;
+  float: left;
+  padding-left: 0px;
+  text-align: left;
+
+}
+.box13{
+  width: 50%;
+  height: 225px;
+  background-color:;
+  float: left;
+  padding-left: 0px;
+}
+footer{
+  background-color: #7d8f92;
+  width:100%;
+  height: 100px;
+  clear: both;
+}
+section.last{
+  width:100%;
+  height: 250px;
+  background-color: #29373a;
+  color: white;
+  margin-top: 1%;
+}
+
+.right{
+  width: 64%;
+  height: 400px;
+  float: right;
+  padding: 2%;
+  margin-top: 2%;
+  margin-right: 12%;
+}
+h2.history{
+  text-align: left;
+  padding-left: 0px;
+  margin-left: 2%;
+}
+h2{
+  text-align: center;
+  height: 75px;
+  margin-top: 4%;
+  padding-left: 17%;
+  padding-right: 14%;
+
+}
+span.develop{
+  color: black;
+  font-weight: bold;
+}
+img.two{
+  width: 71%;
+  height: 100%;
+  padding: 3%;
+
+}
+img.one{
+  width: 71%;
+  padding: 3%;
+
+}
+input.emailbar{
+  width: 15%;
+}
+.picture img{
+  width: 250px;
+  margin: 25px;
+  float: left;
+}
+.ktsuko{
+  text-align: left;
+  padding-left: 0%;
+}
+@media (max-width: 500px){
+  *{
+  box-sizing:border-box;
+  margin: 0px;
+  }
+   .disapear,span.apply,button.favorite.styled{
+    display: none;
+  }
+  header{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+  }
+  .burger{
+    display: inherit;
+  }
+  .hamburger{
+    display: none;
+  }
+  .jwla{
+    width: 20%;
+    height: 30px;
+  }
+  button{
+    background-color: black
+  }
+  span{
+    color: white;
+  }
+  .stanza1{
+    height: 115px;
+  }
+  .emailbar{
+    width: 40%;
+  }
+  .shadowlady{
+    width: 48%;
+    height: 350px;
+    display: none;
+  }
+  h2{
+    height: 200px;
+  }
+  .headerTwo{
+    font-size: 13px;
+  }
+  .box1{
+    float: left;
+    width: 30%;
+    height: 350px;
+    text-align: center;
+    background-color: #F5F5F5;
+  }
+  .box2{
+    width: 150%;
+  }
+  .box3{
+    width: 50%;
+    height: 80px;
+    text-align: center;
+    float: left;
+  }
+  .box4{
+    width: 50%;
+    height: 80px;
+    float: left;
+  }
+  .box5{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+  }
+  .box6{
+    float: left;
+    width: 100%;
+    height:550px;
+    background-color: #F5F5F5;
+    margin-top: 9%;
+  }
+  .box7{
+    float: left;
+    width: 40%;
+    height:165px;
+    background-color: #F5F5F5;
+    margin-top: 9%;
+  }
+  .box8{
+    float: left;
+    width: 60%;
+    height:165px;
+    background-color: #F5F5F5;
+    margin-top: 0%;
+  }
+  .box9{
+    width: 100%;
+    height: 50px;
+    clear: both;
+  }
+  .box10{
+    width: 100%;
+    height: 500px;
+    background-color: ;
+  }
+  .boxbox{
+    width: 100%;
+    height: 225px;
+  }
+  .box12{
+    width: 100%;
+    height: ;
+    background-color:;
+    float: left;
+    padding-left: 0px;
+    text-align: left;
+
+  }
+  .box13{
+    width: 100%;
+    height: 225px;
+    background-color:;
+    float: left;
+    padding-left: 0px;
+  }
+  footer{
+    background-color: #7d8f92;
+    width:100%;
+    height: 100px;
+    clear: both;
+  }
+  section.last{
+    width:100%;
+    height: 150px;
+    background-color: #29373a;
+    color: white;
+    margin-top: 1%;
+  }
+  p{
+    font-size: 11px;
+  }
+
+  .right{
+    width: 100%;
+    height: 400px;
+    float: right;
+    padding: 2%;
+    margin-top: 2%;
+    margin-right: 12%;
+  }
+  h2.history{
+    text-align: left;
+    padding-left: 0px;
+    margin-left: 2%;
+    width: 41%;
+  }
+  h2{
+    text-align: center;
+    height: 75px;
+    margin-top: 4%;
+    padding-left: 17%;
+    padding-right: 14%;
+  }
+  span.develop{
+    color: black;
+    font-weight: bold;
+  }
+  img.two{
+    width: 71%;
+    height: 55%;
+    padding: 2%;
+
+  }
+  img.one{
+    width: 71%;
+    padding: 3%;
+
+  }
+  input.emailbar{
+    width: 30%;
+  }
+  .picture img{
+    width: 389px;
+    margin: 25px;
+    float: left;
+    height: 272px;
+  }
+  .ktsuko{
+    text-align: left;
+    padding-left: 16%;
+    height: 30px;
+}
+.fish{
+  font-size: 11px;
+    padding-left: 60px;
+}
+.family{
+  display: none;
+}
+.bye{
+  display: none;
+}
+.simmons{
+  display: none;
+}
+.road{
+  display: none;
+}
+p.lorem1{
+  display: none;
+}
+}
+@media (max-width: 404px) {
+  *{
+  box-sizing:border-box;
+  margin: 0px;
+  }
+   .disapear,span.apply,button.favorite.styled{
+    display: none;
+  }
+  header{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+  }
+  .burger{
+    display: inherit;
+  }
+  .hamburger{
+    display: none;
+  }
+  .jwla{
+    width: 20%;
+    height: 30px;
+  }
+  button{
+    background-color: black
+  }
+  span{
+    color: white;
+  }
+  .stanza1{
+    height: 115px;
+  }
+  .emailbar{
+    width: 40%;
+  }
+  .shadowlady{
+    width: 20%;
+    height: 350px;
+    display: none;
+
+  }
+  h2{
+    height: 200px;
+  }
+  .headerTwo{
+    font-size: 13px;
+  }
+  .box1{
+    float: left;
+    width: 80%;
+    height: 350px;
+    text-align: center;
+    background-color: #F5F5F5;
+  }
+  .box2{
+    width: 150%;
+  }
+  .box3{
+    width: 50%;
+    height: 80px;
+    text-align: center;
+    float: left;
+  }
+  .box4{
+    width: 50%;
+    height: 80px;
+    float: left;
+  }
+  .box5{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+  }
+  .box6{
+    float: left;
+    width: 100%;
+    height:65px;
+    background-color: #F5F5F5;
+    margin-top: 9%;
+  }
+  .box7{
+    float: left;
+    width: 40%;
+    height:275px;
+    background-color: #F5F5F5;
+    margin-top: 9%;
+  }
+  .box8{
+    float: left;
+    width: 60%;
+    height:275px;
+    background-color: #F5F5F5;
+    margin-top: 0%;
+  }
+  .box9{
+    width: 100%;
+    height: 50px;
+    clear: both;
+  }
+  .box10{
+    width: 100%;
+    height: 500px;
+    background-color: ;
+  }
+  .boxbox{
+    width: 100%;
+    height: 225px;
+  }
+  .box12{
+    width: 100%;
+    height: ;
+    background-color:;
+    float: left;
+    padding-left: 0px;
+    text-align: left;
+
+  }
+  .box13{
+    width: 100%;
+    height: 225px;
+    background-color:;
+    float: left;
+    padding-left: 0px;
+  }
+  footer{
+    background-color: #7d8f92;
+    width:100%;
+    height: 100px;
+    clear: both;
+  }
+  section.last{
+    width:100%;
+    height: 150px;
+    background-color: #29373a;
+    color: white;
+    margin-top: 1%;
+  }
+  p{
+    font-size: 11px;
+  }
+
+  .right{
+    width: 100%;
+    height: 400px;
+    float: right;
+    padding: 2%;
+    margin-top: 2%;
+    margin-right: 12%;
+  }
+  h2.history{
+    text-align: left;
+    padding-left: 0px;
+    margin-left: 2%;
+    width: 41%;
+  }
+  h2{
+    text-align: center;
+    height: 75px;
+    margin-top: 4%;
+    padding-left: 17%;
+    padding-right: 14%;
+    font-size: 20px;
+  }
+  span.develop{
+    color: black;
+    font-weight: bold;
+  }
+  img.two{
+    width: 71%;
+    height: 55%;
+    padding: 2%;
+
+  }
+  img.one{
+    width: 71%;
+    padding: 3%;
+
+  }
+  input.emailbar{
+    width: 30%;
+  }
+  .picture img{
+    width: 389px;
+    margin: 25px;
+    float: left;
+    height: 272px;
+  }
+  .ktsuko{
+    text-align: left;
+    padding-left: 16%;
+    height: 30px;
+    font-size: 22px;
+}
+.fish{
+  font-size: 11px;
+    padding-left: 60px;
+}
+.family{
+  display: none;
+}
+.bye{
+  display: none;
+}
+.simmons{
+  display: none;
+}
+.road{
+  display: none;
+}
+p.lorem1{
+  display: none;
+}
+}
+
+@media (max-width:1050px) {
+  *{
+  box-sizing:border-box;
+  margin: 0px;
+  }
+   .disapear,span.apply,button.favorite.styled{
+    display: none;
+  }
+  header{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+  }
+  .burger{
+    display: inherit;
+  }
+  .hamburger{
+    display: none;
+  }
+  .jwla{
+    width: 20%;
+    height: 30px;
+  }
+  button{
+    background-color: black
+  }
+  span{
+    color: white;
+  }
+  .stanza1{
+    height: 70px;
+  }
+  .emailbar{
+    width: 40%;
+  }
+  .shadowlady{
+    width: 20%;
+    height: 350px;
+  }
+  h2{
+    height: 200px;
+  }
+  .headerTwo{
+    font-size: 13px;
+  }
+  .box1{
+    float: left;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    background-color: #F5F5F5;
+  }
+  .box2{
+    width: 150%;
+  }
+  .box2.5{
+    display: none;
+  }
+  h2.headerTwo{
+    display: none;
+  }
+  .box3{
+    width: 50%;
+    height: 80px;
+    text-align: center;
+    float: left;
+    display: none;
+  }
+  .box4{
+    width: 50%;
+    height: 80px;
+    float: left;
+    display: none;
+  }
+  .box5{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    display: none;
+  }
+  .box6{
+    float: left;
+    width: 100%;
+    height:65px;
+    background-color: #F5F5F5;
+    margin-top: -1%;
+  }
+  .box7{
+    float: left;
+    width: 40%;
+    height:275px;
+    background-color: #F5F5F5;
+    margin-top: 0%;
+  }
+  .box8{
+    float: left;
+    width: 60%;
+    height:275px;
+    background-color: #F5F5F5;
+    margin-top: 0%;
+  }
+  .box9{
+    width: 100%;
+    height: 50px;
+    clear: both;
+  }
+  .box10{
+    width: 100%;
+    height: 500px;
+    background-color: ;
+  }
+  .boxbox{
+    width: 100%;
+    height: 225px;
+  }
+  .box12{
+    width: 100%;
+    height: ;
+    background-color:;
+    float: left;
+    padding-left: 0px;
+    text-align: left;
+
+  }
+  .box13{
+    width: 100%;
+    height: 225px;
+    background-color:;
+    float: left;
+    padding-left: 0px;
+  }
+  footer{
+    background-color: #7d8f92;
+    width:100%;
+    height: 100px;
+    clear: both;
+  }
+  section.last{
+    width:100%;
+    height: 150px;
+    background-color: #29373a;
+    color: white;
+    margin-top: 1%;
+  }
+  p{
+    font-size: 11px;
+  }
+
+  .right{
+    width: 100%;
+    height: 230px;
+    float: right;
+    padding: 2%;
+    margin-top: 2%;
+    margin-right: 12%;
+  }
+  h2.history{
+    text-align: left;
+    padding-left: 0px;
+    margin-left: 2%;
+    width: 41%;
+  }
+  h2{
+    text-align: center;
+    height: 75px;
+    margin-top: 4%;
+    padding-left: 17%;
+    padding-right: 14%;
+  }
+  span.develop{
+    color: black;
+    font-weight: bold;
+  }
+  img.two{
+    width: 71%;
+    height: 55%;
+    padding: 2%;
+
+  }
+  img.one{
+    width: 71%;
+    padding: 3%;
+
+  }
+  input.emailbar{
+    width: 30%;
+  }
+  .picture img{
+    width: 389px;
+    margin-top: -35px;
+    float: left;
+    height: 272px;
+  }
+  .ktsuko{
+    text-align: left;
+    padding-left: 16%;
+    height: 30px;
+}
+.fish{
+  font-size: 11px;
+    padding-left: 60px;
+
+}
+.family{
+  padding-left: 5%;
+  text-align: left;
+}
+.simmons{
+  padding-left: 5%;
+  text-align: left;
+}
+}
